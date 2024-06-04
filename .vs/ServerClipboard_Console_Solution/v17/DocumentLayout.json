@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Projeto\\MyRepository\\lauristi\\ServerClipboardProjects\\ServerClipboard_Console_Solution\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0841F1-208D-4B93-BD3D-23035D6CDF29}|Solution Items{DB0841F1-208D-4B93-BD3D-23035D6CDF29}|D:\\Projeto\\MyRepository\\lauristi\\ServerClipboardProjects\\ServerClipboard_Console_Solution\\Jenkinsfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DB0841F1-208D-4B93-BD3D-23035D6CDF29}|Solution Items{DB0841F1-208D-4B93-BD3D-23035D6CDF29}|solutionrelative:Jenkinsfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +23,23 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Jenkinsfile",
+              "DocumentMoniker": "D:\\Projeto\\MyRepository\\lauristi\\ServerClipboardProjects\\ServerClipboard_Console_Solution\\Jenkinsfile",
+              "RelativeDocumentMoniker": "Jenkinsfile",
+              "ToolTip": "D:\\Projeto\\MyRepository\\lauristi\\ServerClipboardProjects\\ServerClipboard_Console_Solution\\Jenkinsfile",
+              "RelativeToolTip": "Jenkinsfile",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAG8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-04T20:20:36.279Z",
+              "EditorCaption": ""
             }
           ]
         }
