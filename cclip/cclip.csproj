@@ -11,4 +11,10 @@
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="EncryptionLib">
+      <HintPath>EncryptionLib\EncryptionLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
