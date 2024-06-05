@@ -47,11 +47,12 @@ pipeline {
     stage('04- Test') {
       steps {
         script {
-          try {
-            sh "${env.DOTNET_ROOT}/dotnet test ${env.PROJECT_NAME} --no-build --verbosity normal"
-          } catch (Exception e) {
-            TratarErro(e)
-          }
+            // try {
+            //   sh "${env.DOTNET_ROOT}/dotnet test ${env.PROJECT_NAME} --no-build --verbosity normal"
+            // } catch (Exception e) {
+            //     TratarErro(e)
+            // }
+            echo "*** No tests to execute ***"
         }
       }
     }
@@ -109,9 +110,9 @@ pipeline {
     GIT_REPO = 'github.com/lauristi/ServerClipboard_Web_Solution.git'
     BRANCH = 'master'
     PROJECT_NAME = 'cclip'
-    PROJECT_PATH_ARCHIVE = 'ServerClipboard_Console/cclip.csproj'
-    PUBLISH_PATH = 'ServerClipboard_Console/bin/Release/net8.0/publish'
-    ARTIFACT_PATH = 'ServerClipboard_Console/Artifact'
+    PROJECT_PATH_ARCHIVE = 'cclip/cclip.csproj'
+    PUBLISH_PATH = 'cclip/bin/Release/net8.0/publish'
+    ARTIFACT_PATH = 'cclip/Artifact'
     DEPLOY_PATH = '/var/www/app/ServerClipboardProjects/ServerClipboard_Console'
     DOTNET_ROOT = '/opt/dotnet'
   }

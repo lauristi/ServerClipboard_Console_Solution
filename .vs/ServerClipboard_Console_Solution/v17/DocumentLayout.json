@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DB0841F1-208D-4B93-BD3D-23035D6CDF29}|Solution Items{DB0841F1-208D-4B93-BD3D-23035D6CDF29}|D:\\Projeto\\MyRepository\\lauristi\\ServerClipboardProjects\\ServerClipboard_Console_Solution\\Jenkinsfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{DB0841F1-208D-4B93-BD3D-23035D6CDF29}|Solution Items{DB0841F1-208D-4B93-BD3D-23035D6CDF29}|solutionrelative:Jenkinsfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1E5A560-C3DC-4F95-9B09-03A79B489C04}|cclip\\cclip.csproj|d:\\projeto\\myrepository\\lauristi\\serverclipboardprojects\\serverclipboard_console_solution\\cclip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1E5A560-C3DC-4F95-9B09-03A79B489C04}|cclip\\cclip.csproj|solutionrelative:cclip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,22 +36,9 @@
               "RelativeDocumentMoniker": "Jenkinsfile",
               "ToolTip": "D:\\Projeto\\MyRepository\\lauristi\\ServerClipboardProjects\\ServerClipboard_Console_Solution\\Jenkinsfile",
               "RelativeToolTip": "Jenkinsfile",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAHQAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-05T12:11:12.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projeto\\MyRepository\\lauristi\\ServerClipboardProjects\\ServerClipboard_Console_Solution\\cclip\\Program.cs",
-              "RelativeDocumentMoniker": "cclip\\Program.cs",
-              "ToolTip": "D:\\Projeto\\MyRepository\\lauristi\\ServerClipboardProjects\\ServerClipboard_Console_Solution\\cclip\\Program.cs",
-              "RelativeToolTip": "cclip\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T12:10:01.549Z",
+              "WhenOpened": "2024-06-05T12:17:57.913Z",
               "EditorCaption": ""
             }
           ]
