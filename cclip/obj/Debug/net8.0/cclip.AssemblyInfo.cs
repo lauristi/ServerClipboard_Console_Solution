@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cclip")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20d8f8cb21e3d3c7b183f9372c7eb84b5542d88c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ada483f30ddc64217272d58dafba2bd0d3a8b9b")]
 [assembly: System.Reflection.AssemblyProductAttribute("cclip")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cclip")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

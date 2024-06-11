@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projeto\\MyRepository\\lauristi\\ServerClipboardProjects\\ServerClipboard_Console_Solution\\cclip\\cclip.csproj": {}
+    "D:\\Projeto\\MyRepository\\lauristi\\ServerProjects\\References\\ServerClipboard_Console_Solution\\cclip\\cclip.csproj": {}
   },
   "projects": {
-    "D:\\Projeto\\MyRepository\\lauristi\\ServerClipboardProjects\\ServerClipboard_Console_Solution\\cclip\\cclip.csproj": {
+    "D:\\Projeto\\MyRepository\\lauristi\\ServerProjects\\References\\ServerClipboard_Console_Solution\\cclip\\cclip.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projeto\\MyRepository\\lauristi\\ServerClipboardProjects\\ServerClipboard_Console_Solution\\cclip\\cclip.csproj",
+        "projectUniqueName": "D:\\Projeto\\MyRepository\\lauristi\\ServerProjects\\References\\ServerClipboard_Console_Solution\\cclip\\cclip.csproj",
         "projectName": "cclip",
-        "projectPath": "D:\\Projeto\\MyRepository\\lauristi\\ServerClipboardProjects\\ServerClipboard_Console_Solution\\cclip\\cclip.csproj",
+        "projectPath": "D:\\Projeto\\MyRepository\\lauristi\\ServerProjects\\References\\ServerClipboard_Console_Solution\\cclip\\cclip.csproj",
         "packagesPath": "C:\\Users\\sysdba\\.nuget\\packages\\",
-        "outputPath": "D:\\Projeto\\MyRepository\\lauristi\\ServerClipboardProjects\\ServerClipboard_Console_Solution\\cclip\\obj\\",
+        "outputPath": "D:\\Projeto\\MyRepository\\lauristi\\ServerProjects\\References\\ServerClipboard_Console_Solution\\cclip\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sysdba\\AppData\\Roaming\\NuGet\\NuGet.Config",
